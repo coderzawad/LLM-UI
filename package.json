@@ -1,0 +1,14 @@
+{
+  "name": "llm-ui",
+  "version": "1.0.0",
+  "description": "A simple alternative for openweb-ui. Dont ask why i am doing this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zawad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
